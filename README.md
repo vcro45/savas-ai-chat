@@ -45,3 +45,5 @@ The default LLM endpoint is local-only: `http://localhost:8080/wa/get-llm-respon
 ## Notes
 
 This repository is a cleaned portfolio version of an experimental chat interface. Local databases, virtual environments, generated files, and private deployment settings are intentionally excluded.
+
+
